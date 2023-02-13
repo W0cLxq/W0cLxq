@@ -42,8 +42,9 @@
 </div>
 
 ###
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=W0cLxq&theme=prussian&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+<div align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=W0cLxq&theme=prussian&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+</div>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/W0cLxq/count.svg?"  />
