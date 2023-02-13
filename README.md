@@ -1,44 +1,28 @@
-<h2 align="left">Hi 👋! My name is Monoster.</h2>
+### Hi there 👋, My name is Monoster.
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)
 
-###
+I write very fast. I use them all, regardless of the programming language. To sum it up, I'm a monster.
 
-<img align="left" height="200" src="https://i.pinimg.com/originals/e1/f3/41/e1f3413bf5036045713341394f617225.gif"  />
+Skills: HTML / CSS / C++ / C / 
 
-###
+- 🌱 I’m currently learning C++ and C# 
+- 📫 How to reach me: Via Discord. 
+- ⚡ Fun fact: I'm really a monster. 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&username=W0cLxq" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&username=W0cLxq" height="150" alt="languages graph"  />
-</div>
 
-###
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/W0cLxq)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/w8kWZrDuCc)  
 
-<div align="left">
-  <a href="https://discord.gg/w8kWZrDuCc" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=W0cLxq)](https://github.com/ryo-ma/github-profile-trophy)
 
-###
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=W0cLxq)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/W0cLxq/count.svg?"  />
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=W0cLxq&show_icons=true&count_private=true)  
 
-###
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=W0cLxq)  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" width="42" alt="cplusplus logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="42" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="30" width="42" alt="qt logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
-</div>
+![GitHub metrics](https://metrics.lecoq.io/W0cLxq)  
 
-###
+![GitHub streak stats](https://streak-stats.demolab.com/?user=W0cLxq)  
+
+![Profile views](https://gpvc.arturio.dev/W0cLxq)  
