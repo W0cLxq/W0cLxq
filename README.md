@@ -43,8 +43,10 @@
 
 ###
 
-<img align="right" src="https://profile-counter.glitch.me/W0cLxq/count.svg?"  />
+![GitHub streak stats](https://streak-stats.demolab.com/?user=W0cLxq) 
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/W0cLxq/count.svg?"  />
+</div>
 
 ###
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=W0cLxq) 
