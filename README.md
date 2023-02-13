@@ -43,7 +43,7 @@
 
 ###
 
-[![GitHub Streak](user=W0cLxq&theme=prussian&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+[![GitHub Streak](?user=W0cLxq&theme=prussian&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
 
 <div align="center">
